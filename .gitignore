@@ -1,0 +1,10 @@
+# 原始全文僅供本機研究；尚未取得公開再散布授權
+/raw/**
+!/raw/README.md
+/tmp/
+__pycache__/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+/output/

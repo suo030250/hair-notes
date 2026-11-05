@@ -1,0 +1,46 @@
+[
+  {
+    "id": "scalp-health",
+    "title": "頭皮健康，從留意自己的感受開始",
+    "category": "hair-care",
+    "summary": "頭皮狀況不只看出油。從舒適度、持續變化到日常洗護，整理幾個值得留意的觀察方向，也讓下次和設計師的對話更有頭緒。",
+    "status": "draft",
+    "created": "2026-11-05",
+    "updated": "2026-11-05",
+    "tags": ["頭皮健康", "日常洗護", "與設計師溝通"],
+    "wikiPath": "wiki/topics/scalp-health.md",
+    "sections": [
+      {"heading": "除了出油，也留意舒適與變化", "paragraphs": ["頭皮是不是健康，不能只用「油不油」來判斷。USTI 的衛教文章建議，觀察時也要留意持續搔癢、疼痛、脫屑，以及和平常不同的變化。這些是溝通的起點，不是自行診斷的清單。[1]"]},
+      {"heading": "洗頭頻率，需要考慮自己的髮況", "paragraphs": ["AAD 的日常洗護建議是依出油、髒污與髮質安排清潔；不是每個人都需要相同次數。頭皮清潔與髮絲潤護，也可以分開照顧。[2]", "如果你看過「每天洗頭比較好」的說法，記得同時看研究對象與使用產品。2021 年的洗髮研究有特定族群與條件，不能直接變成每個人的日程表。[3]"]},
+      {"heading": "把日常感受，帶進下一次對話", "paragraphs": ["我們建議先記下幾件小事：洗完多久開始出油？什麼時候覺得不舒服？最近換過哪些洗護產品、做過哪些服務？這些記錄是幫助溝通的提案，不是診斷工具。", "設計師可以協助你描述觀察與討論日常照顧；持續或惡化的不適應交由醫師評估，不能只靠沙龍觀察確診。[1]"]}
+    ],
+    "sources": [
+      {"title": "USTI Education Team｜Scalp Health: What It Is and Why It Matters", "url": "https://www.ustrichology.org/blog/what-is-scalp-health", "accessed": "2026-11-05"},
+      {"title": "American Academy of Dermatology｜Tips for healthy hair", "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips", "accessed": "2026-11-05"},
+      {"title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions", "url": "https://doi.org/10.1159/000512786", "accessed": "2026-11-05"}
+    ],
+    "limitations": ["本篇為仍在編輯的客人閱讀草稿，提供一般知識，不能用於個人診斷、用藥或保證生髮。", "USTI 為教育機構的二手整理；本次僅針對洗護建議及洗髮頻率研究回查，未逐一查核其全部機轉說法。"]
+  },
+  {
+    "id": "shampoo-frequency",
+    "title": "多久洗一次頭？讓研究回到你的日常",
+    "category": "faq",
+    "summary": "每天洗，還是隔幾天洗？從一篇洗髮頻率研究看起，理解它發現了什麼、有哪些限制，再回到自己的出油、髮質與實際需要。",
+    "status": "draft",
+    "created": "2026-11-05",
+    "updated": "2026-11-05",
+    "tags": ["洗頭頻率", "研究筆記", "個人差異"],
+    "wikiPath": "wiki/topics/shampoo-frequency.md",
+    "sections": [
+      {"heading": "先說結論：沒有適合所有人的次數", "paragraphs": ["目前這批資料不能替所有客人指定同一個洗頭日程。AAD 建議依出油、髒污與髮質安排洗髮；一篇研究的發現，也不能簡化成「所有人每天洗都最好」。[1][2]"]},
+      {"heading": "這篇研究，實際比較了什麼？", "paragraphs": ["2021 年研究包含兩部分：1,500 位中國成人的原有習慣觀察，以及 60 位原本低頻洗髮者的 5 週循序研究。後者先在一次受控洗髮後停洗 7 天，再用同款含 ZPT 的頭皮洗髮精每日洗 4 週。這並不是把參與者隨機分成同時進行的兩組。（論文 pp.185–186）[1]", "ZPT 指 pyrithione zinc（吡硫鎓鋅），是研究所用產品的成分。這裡說明配方是為了交代研究條件，不是產品或用藥推薦。[1]"]},
+      {"heading": "研究看到了改善，也有保留條件", "paragraphs": ["作者報告，較高洗髮頻率與部分頭皮指標及自覺髮況較佳相關。在循序介入中，每日洗髮階段的多項測量改善，測得的髮絲內部脂質沒有顯著減少。（論文 pp.187–192，Figs.6、8、10、11）[1]", "但受試者主要是沒有已知頭皮疾病的亞洲直髮或低捲度族群，每日洗髮只有 4 週，且使用特定產品。固定先後順序也讓時間與產品影響不容易完全分開。研究由 P&G 支付全部費用，部分作者有公司關係。（論文 pp.185–186、192–193）[1]"]},
+      {"heading": "怎麼回到自己的洗護習慣？", "paragraphs": ["AAD 將頭皮清潔與髮絲潤護分開說明，並提醒依個人髮況安排清潔。[2] 我們的溝通提案是：先整理自己的出油速度、髮絲乾燥感與目前產品，再和設計師討論可行的日常習慣。", "這份研究沒有證明每天洗能治療落髮，也不能保證所有配方、髮質或長期使用都不傷髮。持續不適或已有疾病時，需要個別評估，不能只用洗頭次數解釋。[1]"]}
+    ],
+    "sources": [
+      {"title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions", "url": "https://doi.org/10.1159/000512786", "accessed": "2026-11-05"},
+      {"title": "American Academy of Dermatology｜Tips for healthy hair", "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips", "accessed": "2026-11-05"}
+    ],
+    "limitations": ["研究的觀察部分不能單獨確立因果；循序介入缺少同時期的平行對照。", "高度捲曲髮、漂染髮、較長期使用、不同配方與特定疾病族群仍需其他資料，不能直接外推。", "本篇為閱讀草稿，原研究的線上補充材料尚未取得；不提供個人診斷或處方。"]
+  }
+]
