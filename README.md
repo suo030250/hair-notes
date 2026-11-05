@@ -9,7 +9,7 @@ Hair Notes 是給客人閱讀的美髮知識網站，隸屬 Hair × AI Studio。
 - 支援全文搜尋、分類、清空篩選、文章目錄、來源跳轉與延伸閱讀。
 - 使用原生 HTML／CSS／JavaScript，不需安裝套件或執行建置。
 - GitHub Repository：[suo030250/hair-notes](https://github.com/suo030250/hair-notes)。
-- 公開網站：尚未部署。目前可使用本機 HTTP 預覽。
+- 公開網站：[Hair Notes](https://suo030250.github.io/hair-notes/)，已使用 GitHub Pages 發布（main 分支的 /docs）。
 
 ## 本機瀏覽
 
@@ -66,7 +66,7 @@ node --check docs/assets/js/app.js
 
 資料檢查包含必要欄位、唯一 ID、文章日期、來源編號、對應 Wiki 檔、HTML 本機連結、錨點、資源路徑與公開目錄範圍。仍須實際瀏覽確認視覺與互動。
 
-本次已在瀏覽器確認：首頁與兩篇文章、關於頁、搜尋、分類、清空篩選、無結果、無效文章 ID、來源錨點、鍵盤焦點、資料載入失敗提示及模擬 Pages 子路徑。320px 手機寬度的首頁、文章與關於頁沒有水平溢出，另檢視 1280px 桌面版。子路徑測試是本機模擬，未代表已部署 GitHub Pages。
+本次已在瀏覽器確認：首頁與兩篇文章、關於頁、搜尋、分類、清空篩選、無結果、無效文章 ID、來源錨點、鍵盤焦點、資料載入失敗提示及模擬 Pages 子路徑。320px 手機寬度的首頁、文章與關於頁沒有水平溢出，另檢視 1280px 桌面版。目前已完成 GitHub Pages 部署；公開首頁、資料及文章連結會在發布時另行確認。
 
 ## GitHub Pages 發布方式
 
@@ -84,4 +84,5 @@ node --check docs/assets/js/app.js
 `raw/` 的既有來源保持不變；未確認再散布授權的全文不隨網站或公開 Repository 發布。`.gitignore` 排除原始全文、暫存、環境檔及本機截圖，只保留 raw 說明檔。這不會刪除本機資料；公開版本中的原始檔連結可能僅能在本機使用。
 
 公開網站以自行編寫的摘要及原始網址呈現，不包含顧客個資、諮詢紀錄、原始 PDF 或下載的完整網頁。
+
 
