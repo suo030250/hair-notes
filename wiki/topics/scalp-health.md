@@ -31,7 +31,8 @@ sources:
 2. [AAD 日常洗護建議](../sources/aad-healthy-hair.md)：已查核原頁。
 3. [2021 洗髮研究](../sources/shampoo-wash-frequency-2021.md)：特定族群與產品，不能外推所有人。
 
-本頁為客人閱讀草稿，已編輯至網站本機預覽版本，尚未公開部署；不提供個人診斷、用藥或生髮保證。USTI 的其他機轉說法尚未逐一回查，見 [研究待辦](../questions/research-backlog.md)。
+本頁為客人閱讀草稿，已編輯至 [網站閱讀版本](https://suo030250.github.io/hair-notes/article.html?id=scalp-health)；不提供個人診斷、用藥或生髮保證。USTI 的其他機轉說法尚未逐一回查，見 [研究待辦](../questions/research-backlog.md)。
 
 相關：[美髮知識入口](hair-knowledge.md)、[從美髮知識到 Reels](../syntheses/hair-to-reels.md)。
+
 
