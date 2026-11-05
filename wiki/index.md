@@ -30,7 +30,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含兩篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。尚未公開部署。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含兩篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
@@ -39,4 +39,5 @@
 - [Reels 專案](../projects/reels/README.md)
 - [模板](../templates/README.md)
 - [使用說明](../README.md)
+
 
