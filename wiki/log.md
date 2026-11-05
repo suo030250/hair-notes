@@ -55,3 +55,11 @@
 - 使用者授權上傳專案至其 GitHub，建立 suo030250/hair-notes 公開儲存庫。
 - 上傳前網站資料與語法檢查通過，常見憑證模式掃描未發現項目；原始全文、截圖與暫存不加入版本。
 - 網站部署狀態在完成後另行記錄。
+
+## [2026-11-05] create | 上傳 GitHub 並啟用公開網站
+
+- 專案已上傳 https://github.com/suo030250/hair-notes，33 個專案檔案與本機內容比對一致。
+- 使用 GitHub 網頁提交一次性 Actions 匯入，完成後已刪除匯入工作流程；未變更本機其他 GitHub 帳號憑證。
+- GitHub Pages 設定為 main 分支 /docs，公開網址 https://suo030250.github.io/hair-notes/ 已回傳 HTTP 200。
+- 原始 PDF、完整網頁、暫存與本機截圖未上傳；僅 raw/README.md 隨專案公開。
+- 更新 README、Wiki 索引及頭皮頁的網站狀態。
