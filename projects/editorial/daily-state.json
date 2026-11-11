@@ -7,18 +7,21 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "scalp-physiology",
-  "last_published_date": null,
-  "last_article_id": null,
-  "last_article_url": null,
-  "pending": {
-    "date": "2026-11-11",
-    "pillar": "scalp-physiology",
-    "article_id": "hair-growth-cycle",
-    "stage": "validation",
-    "reason": "內容與來源整理完成，待檢查及公開網站驗證"
-  },
-  "history": [],
+  "next_pillar": "routine-myths",
+  "last_published_date": "2026-11-11",
+  "last_article_id": "hair-growth-cycle",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hair-growth-cycle",
+  "pending": null,
+  "history": [
+    {
+      "date": "2026-11-11",
+      "pillar": "scalp-physiology",
+      "article_id": "hair-growth-cycle",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=hair-growth-cycle",
+      "commit": "5703c1d4244c683311a19321793513eb074f8bc2",
+      "verification": "HTTP 200; public JSON article matched; headless Chrome rendered homepage card, article heading, sections and source link"
+    }
+  ],
   "automation_id": "hair-notes",
   "created": "2026-11-10"
 }
