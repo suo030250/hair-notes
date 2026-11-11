@@ -3,7 +3,7 @@ title: "研究待辦與矛盾清單"
 type: question
 status: draft
 created: 2026-11-05
-updated: 2026-11-05
+updated: 2026-11-11
 tags: [研究, 待辦]
 sources:
   - ../sources/usti-scalp-health.md
@@ -37,3 +37,8 @@ sources:
 - Q004：資料已可支持有條件的科普選題，但來源匯入不代表已完成短片或已發布。
 
 相關入口：[AI Reels](../topics/ai-reels.md)、[美髮知識](../topics/hair-knowledge.md)、[知識轉腳本](../syntheses/hair-to-reels.md)。
+
+## 2026-11-11 毛囊週期查核
+
+- Q008：Schneider 2009 綜述全文、資助與利益揭露尚未核對；目前只採 [摘要明示的三階段](../sources/schneider-hair-follicle-2009.md)，待全文。
+- Q009：[AAD](../sources/aad-hair-shedding.md) 提及一般每日 50–100 根，[BAD](../sources/bad-telogen-effluvium.md) 為 30–150 根；沒有足夠資料把差異判作矛盾或診斷門檻，公開文章不採固定數字。BAD 的兩狀態衛教與綜述三階段為簡化層級不同，保留兩者語境。

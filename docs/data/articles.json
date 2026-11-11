@@ -7,19 +7,55 @@
     "status": "draft",
     "created": "2026-11-05",
     "updated": "2026-11-05",
-    "tags": ["頭皮健康", "日常洗護", "與設計師溝通"],
+    "tags": [
+      "頭皮健康",
+      "日常洗護",
+      "與設計師溝通"
+    ],
     "wikiPath": "wiki/topics/scalp-health.md",
     "sections": [
-      {"heading": "除了出油，也留意舒適與變化", "paragraphs": ["頭皮是不是健康，不能只用「油不油」來判斷。USTI 的衛教文章建議，觀察時也要留意持續搔癢、疼痛、脫屑，以及和平常不同的變化。這些是溝通的起點，不是自行診斷的清單。[1]"]},
-      {"heading": "洗頭頻率，需要考慮自己的髮況", "paragraphs": ["AAD 的日常洗護建議是依出油、髒污與髮質安排清潔；不是每個人都需要相同次數。頭皮清潔與髮絲潤護，也可以分開照顧。[2]", "如果你看過「每天洗頭比較好」的說法，記得同時看研究對象與使用產品。2021 年的洗髮研究有特定族群與條件，不能直接變成每個人的日程表。[3]"]},
-      {"heading": "把日常感受，帶進下一次對話", "paragraphs": ["我們建議先記下幾件小事：洗完多久開始出油？什麼時候覺得不舒服？最近換過哪些洗護產品、做過哪些服務？這些記錄是幫助溝通的提案，不是診斷工具。", "設計師可以協助你描述觀察與討論日常照顧；持續或惡化的不適應交由醫師評估，不能只靠沙龍觀察確診。[1]"]}
+      {
+        "heading": "除了出油，也留意舒適與變化",
+        "paragraphs": [
+          "頭皮是不是健康，不能只用「油不油」來判斷。USTI 的衛教文章建議，觀察時也要留意持續搔癢、疼痛、脫屑，以及和平常不同的變化。這些是溝通的起點，不是自行診斷的清單。[1]"
+        ]
+      },
+      {
+        "heading": "洗頭頻率，需要考慮自己的髮況",
+        "paragraphs": [
+          "AAD 的日常洗護建議是依出油、髒污與髮質安排清潔；不是每個人都需要相同次數。頭皮清潔與髮絲潤護，也可以分開照顧。[2]",
+          "如果你看過「每天洗頭比較好」的說法，記得同時看研究對象與使用產品。2021 年的洗髮研究有特定族群與條件，不能直接變成每個人的日程表。[3]"
+        ]
+      },
+      {
+        "heading": "把日常感受，帶進下一次對話",
+        "paragraphs": [
+          "我們建議先記下幾件小事：洗完多久開始出油？什麼時候覺得不舒服？最近換過哪些洗護產品、做過哪些服務？這些記錄是幫助溝通的提案，不是診斷工具。",
+          "設計師可以協助你描述觀察與討論日常照顧；持續或惡化的不適應交由醫師評估，不能只靠沙龍觀察確診。[1]"
+        ]
+      }
     ],
     "sources": [
-      {"title": "USTI Education Team｜Scalp Health: What It Is and Why It Matters", "url": "https://www.ustrichology.org/blog/what-is-scalp-health", "accessed": "2026-11-05"},
-      {"title": "American Academy of Dermatology｜Tips for healthy hair", "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips", "accessed": "2026-11-05"},
-      {"title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions", "url": "https://doi.org/10.1159/000512786", "accessed": "2026-11-05"}
+      {
+        "title": "USTI Education Team｜Scalp Health: What It Is and Why It Matters",
+        "url": "https://www.ustrichology.org/blog/what-is-scalp-health",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "American Academy of Dermatology｜Tips for healthy hair",
+        "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions",
+        "url": "https://doi.org/10.1159/000512786",
+        "accessed": "2026-11-05"
+      }
     ],
-    "limitations": ["本篇為仍在編輯的客人閱讀草稿，提供一般知識，不能用於個人診斷、用藥或保證生髮。", "USTI 為教育機構的二手整理；本次僅針對洗護建議及洗髮頻率研究回查，未逐一查核其全部機轉說法。"]
+    "limitations": [
+      "本篇為仍在編輯的客人閱讀草稿，提供一般知識，不能用於個人診斷、用藥或保證生髮。",
+      "USTI 為教育機構的二手整理；本次僅針對洗護建議及洗髮頻率研究回查，未逐一查核其全部機轉說法。"
+    ]
   },
   {
     "id": "shampoo-frequency",
@@ -29,18 +65,123 @@
     "status": "draft",
     "created": "2026-11-05",
     "updated": "2026-11-05",
-    "tags": ["洗頭頻率", "研究筆記", "個人差異"],
+    "tags": [
+      "洗頭頻率",
+      "研究筆記",
+      "個人差異"
+    ],
     "wikiPath": "wiki/topics/shampoo-frequency.md",
     "sections": [
-      {"heading": "先說結論：沒有適合所有人的次數", "paragraphs": ["目前這批資料不能替所有客人指定同一個洗頭日程。AAD 建議依出油、髒污與髮質安排洗髮；一篇研究的發現，也不能簡化成「所有人每天洗都最好」。[1][2]"]},
-      {"heading": "這篇研究，實際比較了什麼？", "paragraphs": ["2021 年研究包含兩部分：1,500 位中國成人的原有習慣觀察，以及 60 位原本低頻洗髮者的 5 週循序研究。後者先在一次受控洗髮後停洗 7 天，再用同款含 ZPT 的頭皮洗髮精每日洗 4 週。這並不是把參與者隨機分成同時進行的兩組。（論文 pp.185–186）[1]", "ZPT 指 pyrithione zinc（吡硫鎓鋅），是研究所用產品的成分。這裡說明配方是為了交代研究條件，不是產品或用藥推薦。[1]"]},
-      {"heading": "研究看到了改善，也有保留條件", "paragraphs": ["作者報告，較高洗髮頻率與部分頭皮指標及自覺髮況較佳相關。在循序介入中，每日洗髮階段的多項測量改善，測得的髮絲內部脂質沒有顯著減少。（論文 pp.187–192，Figs.6、8、10、11）[1]", "但受試者主要是沒有已知頭皮疾病的亞洲直髮或低捲度族群，每日洗髮只有 4 週，且使用特定產品。固定先後順序也讓時間與產品影響不容易完全分開。研究由 P&G 支付全部費用，部分作者有公司關係。（論文 pp.185–186、192–193）[1]"]},
-      {"heading": "怎麼回到自己的洗護習慣？", "paragraphs": ["AAD 將頭皮清潔與髮絲潤護分開說明，並提醒依個人髮況安排清潔。[2] 我們的溝通提案是：先整理自己的出油速度、髮絲乾燥感與目前產品，再和設計師討論可行的日常習慣。", "這份研究沒有證明每天洗能治療落髮，也不能保證所有配方、髮質或長期使用都不傷髮。持續不適或已有疾病時，需要個別評估，不能只用洗頭次數解釋。[1]"]}
+      {
+        "heading": "先說結論：沒有適合所有人的次數",
+        "paragraphs": [
+          "目前這批資料不能替所有客人指定同一個洗頭日程。AAD 建議依出油、髒污與髮質安排洗髮；一篇研究的發現，也不能簡化成「所有人每天洗都最好」。[1][2]"
+        ]
+      },
+      {
+        "heading": "這篇研究，實際比較了什麼？",
+        "paragraphs": [
+          "2021 年研究包含兩部分：1,500 位中國成人的原有習慣觀察，以及 60 位原本低頻洗髮者的 5 週循序研究。後者先在一次受控洗髮後停洗 7 天，再用同款含 ZPT 的頭皮洗髮精每日洗 4 週。這並不是把參與者隨機分成同時進行的兩組。（論文 pp.185–186）[1]",
+          "ZPT 指 pyrithione zinc（吡硫鎓鋅），是研究所用產品的成分。這裡說明配方是為了交代研究條件，不是產品或用藥推薦。[1]"
+        ]
+      },
+      {
+        "heading": "研究看到了改善，也有保留條件",
+        "paragraphs": [
+          "作者報告，較高洗髮頻率與部分頭皮指標及自覺髮況較佳相關。在循序介入中，每日洗髮階段的多項測量改善，測得的髮絲內部脂質沒有顯著減少。（論文 pp.187–192，Figs.6、8、10、11）[1]",
+          "但受試者主要是沒有已知頭皮疾病的亞洲直髮或低捲度族群，每日洗髮只有 4 週，且使用特定產品。固定先後順序也讓時間與產品影響不容易完全分開。研究由 P&G 支付全部費用，部分作者有公司關係。（論文 pp.185–186、192–193）[1]"
+        ]
+      },
+      {
+        "heading": "怎麼回到自己的洗護習慣？",
+        "paragraphs": [
+          "AAD 將頭皮清潔與髮絲潤護分開說明，並提醒依個人髮況安排清潔。[2] 我們的溝通提案是：先整理自己的出油速度、髮絲乾燥感與目前產品，再和設計師討論可行的日常習慣。",
+          "這份研究沒有證明每天洗能治療落髮，也不能保證所有配方、髮質或長期使用都不傷髮。持續不適或已有疾病時，需要個別評估，不能只用洗頭次數解釋。[1]"
+        ]
+      }
     ],
     "sources": [
-      {"title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions", "url": "https://doi.org/10.1159/000512786", "accessed": "2026-11-05"},
-      {"title": "American Academy of Dermatology｜Tips for healthy hair", "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips", "accessed": "2026-11-05"}
+      {
+        "title": "Punyani 等，2021｜The Impact of Shampoo Wash Frequency on Scalp and Hair Conditions",
+        "url": "https://doi.org/10.1159/000512786",
+        "accessed": "2026-11-05"
+      },
+      {
+        "title": "American Academy of Dermatology｜Tips for healthy hair",
+        "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/healthy-hair-tips",
+        "accessed": "2026-11-05"
+      }
     ],
-    "limitations": ["研究的觀察部分不能單獨確立因果；循序介入缺少同時期的平行對照。", "高度捲曲髮、漂染髮、較長期使用、不同配方與特定疾病族群仍需其他資料，不能直接外推。", "本篇為閱讀草稿，原研究的線上補充材料尚未取得；不提供個人診斷或處方。"]
+    "limitations": [
+      "研究的觀察部分不能單獨確立因果；循序介入缺少同時期的平行對照。",
+      "高度捲曲髮、漂染髮、較長期使用、不同配方與特定疾病族群仍需其他資料，不能直接外推。",
+      "本篇為閱讀草稿，原研究的線上補充材料尚未取得；不提供個人診斷或處方。"
+    ]
+  },
+  {
+    "id": "hair-growth-cycle",
+    "title": "頭髮也有自己的班表：認識毛囊生長週期",
+    "category": "hair-care",
+    "summary": "看到梳子上的頭髮，先別急著下結論。從成長期、退行期到休止期，了解毛囊的自然節奏，也學會把髮量變化整理成能與專業人員討論的資訊。",
+    "status": "reviewed",
+    "created": "2026-11-11",
+    "updated": "2026-11-11",
+    "tags": [
+      "頭皮生理與科學",
+      "毛囊週期",
+      "頭髮觀察"
+    ],
+    "wikiPath": "wiki/topics/hair-growth-cycle.md",
+    "sections": [
+      {
+        "heading": "每天看到掉髮，代表毛囊出問題了嗎？",
+        "paragraphs": [
+          "日常看到一些頭髮脫落，可以是自然更新的一部分。毛囊會在生長、退行與休止之間循環；單看今天梳子上的頭髮，還不足以判定原因。[1][2]"
+        ]
+      },
+      {
+        "heading": "用三個階段，認識毛囊的節奏",
+        "paragraphs": [
+          "成長期（anagen）是毛囊製造毛髮的階段；退行期（catagen）是生長活動退下來、毛囊部分結構縮退的過渡；休止期（telogen）則處於相對靜止的狀態。休止不等於毛囊已經死亡。[1]",
+          "可以把它想成輪流工作的班表，這只是幫助理解的比喻。休止與脫落也不必發生在同一瞬間；BAD 的衛教描述，休止一段時間後，新生長的頭髮會將舊髮推出。[2]"
+        ]
+      },
+      {
+        "heading": "今天掉得多，不一定反映今天的事情",
+        "paragraphs": [
+          "BAD 與 AAD 都提到，身體壓力或重大事件相關的掉髮增加，可能在事件後幾個月才被注意到。因此，不能只憑今天洗頭或今天的壓力，直接認定落髮原因。[2][3]",
+          "這也不能反過來用來自我確診「一定是壓力造成」。頭髮變化可能有不同原因，皮膚科醫師會綜合頭皮狀況、病史與必要檢查評估。[2][3]"
+        ]
+      },
+      {
+        "heading": "把觀察整理好，比替自己貼標籤有幫助",
+        "paragraphs": [
+          "我們的溝通提案是記下：什麼時候開始與平常不同？髮縫或髮量是否有持續變化？近期有哪些身體事件、洗護產品或造型改變？這是協助描述的筆記，不是診斷量表。",
+          "若你擔心掉髮量或髮量變化，可帶著紀錄向皮膚科醫師諮詢。設計師能協助討論外觀與日常整理，但不能僅靠髮絲外觀判定毛囊週期或落髮原因。[3]"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Schneider、Schmidt-Ullrich、Paus，2009｜The Hair Follicle as a Dynamic Miniorgan（綜述摘要）",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19211055/",
+        "accessed": "2026-11-11"
+      },
+      {
+        "title": "British Association of Dermatologists｜Telogen effluvium（2025 年修訂衛教）",
+        "url": "https://www.bad.org.uk/pils/telogen-effluvium",
+        "accessed": "2026-11-11"
+      },
+      {
+        "title": "American Academy of Dermatology｜Do you have hair loss or hair shedding?",
+        "url": "https://www.aad.org/public/diseases/hair-loss/insider/shedding",
+        "accessed": "2026-11-11"
+      }
+    ],
+    "limitations": [
+      "這是毛囊週期的入門知識與溝通建議，不能用來判定個人落髮類型或提供治療。",
+      "2009 年文獻為綜述，本次僅讀摘要與核對書目，未取得全文；資助及利益關係尚未核對，未據此提出產品或人體療效結論。",
+      "各階段的長度與比例不作個人診斷門檻；本文不以單日掉髮根數判定正常與否。"
+    ]
   }
 ]

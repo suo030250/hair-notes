@@ -1,0 +1,24 @@
+{
+  "timezone": "Asia/Taipei",
+  "schedule_local": "09:00",
+  "rotation": [
+    "scalp-physiology",
+    "routine-myths",
+    "hair-loss-conditions",
+    "ingredients-nutrition"
+  ],
+  "next_pillar": "scalp-physiology",
+  "last_published_date": null,
+  "last_article_id": null,
+  "last_article_url": null,
+  "pending": {
+    "date": "2026-11-11",
+    "pillar": "scalp-physiology",
+    "article_id": "hair-growth-cycle",
+    "stage": "validation",
+    "reason": "內容與來源整理完成，待檢查及公開網站驗證"
+  },
+  "history": [],
+  "automation_id": "hair-notes",
+  "created": "2026-11-10"
+}

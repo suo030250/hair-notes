@@ -63,3 +63,18 @@
 - GitHub Pages 設定為 main 分支 /docs，公開網址 https://suo030250.github.io/hair-notes/ 已回傳 HTTP 200。
 - 原始 PDF、完整網頁、暫存與本機截圖未上傳；僅 raw/README.md 隨專案公開。
 - 更新 README、Wiki 索引及頭皮頁的網站狀態。
+
+## [2026-11-10] schema | 建立四大支柱每日文章排程
+
+- 保存使用者提供的題庫與候選書目至 raw/reference/daily-pillars-2026-11-10.md，尚未查核其書目或研究結論。
+- 新增 projects/editorial/daily-plan.md 與 daily-state.json，定義輪播、當日去重、證據檢查及發布完成判準。
+- 更新 AGENTS.md，授權流程為來源保存、Wiki／索引／日誌更新、網站資料更新、檢查及發布。
+- 建立 App 每日 09:00（Asia/Taipei）排程 hair-notes；尚未執行首篇，也未驗證無人值守 GitHub 發布。
+
+## [2026-11-11] ingest | 首篇每日文章：頭髮生長週期
+
+- 支柱：頭皮生理與科學。查重後選定 hair-growth-cycle，尚未記為發布成功。
+- raw 保存三個來源頁面及作者機構摘要；PubMed 直接下載為 Cookie 檢查頁，另記限制，未改寫原始快照。
+- 核實 Schneider 等 2009 正式篇名為 The Hair Follicle as a Dynamic Miniorgan，文獻類型為綜述，僅讀摘要；全文、資助及利益關係仍待查核。
+- 新增三份來源摘要、毛囊週期主題及公開文章；更新索引與 Q008／Q009，保留日常掉髮數值範圍差異，不作診斷門檻。
+- 等待內容檢查與公開網址驗證；只有成功後推進輪播。
