@@ -31,5 +31,15 @@
     }
   ],
   "automation_id": "hair-notes",
-  "created": "2026-11-10"
+  "created": "2026-11-10",
+  "manual_publications": [
+    {
+      "date": "2026-11-12",
+      "article_id": "color-perm-conditioning",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=color-perm-conditioning",
+      "commit": "ce138ff7c0238e0360c169f0bb47ba7230cc3cc5",
+      "reason": "User requested conditioning / color-perm topic; extra article; automatic rotation unchanged",
+      "verification": "Public JSON, category, search, body and 320px overflow check passed in Chrome"
+    }
+  ]
 }

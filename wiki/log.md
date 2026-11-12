@@ -108,3 +108,9 @@
 - 另存 AAD healthy-hair 今日快照，沿用同日 prevent-hair-damage 快照；更新兩份既有來源摘要，不另建重複來源。
 - 新增 Wiki 主題與公開 JSON，更新索引、README；選購與諮詢清單標為專案提案，不宣稱特定產品修復效果。
 - 這是使用者指定的額外文章；每日輪播已完成，下一支柱不因加篇重複推進。發布驗證結果另附紀錄。
+
+## [2026-11-12] create | 染燙護髮文章發布驗證
+
+- 發布 ce138ff7c0238e0360c169f0bb47ba7230cc3cc5 至 main，原始全文保留本機。
+- check_site.py（五篇文章、三個 HTML）與 JavaScript 語法通過；公開 JSON、染燙照護分類、潤髮乳搜尋、正文標題與內容均經 Chrome 驗證，320px 無水平溢出。
+- daily-state.json 以 manual_publications 記錄使用者指定文章；保留每日自動發文完成紀錄與下一支柱。
