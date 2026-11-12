@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "routine-myths",
-  "last_published_date": "2026-11-11",
-  "last_article_id": "hair-growth-cycle",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hair-growth-cycle",
-  "pending": {
-    "date": "2026-11-12",
-    "pillar": "routine-myths",
-    "article_id": "hair-drying",
-    "stage": "validation",
-    "reason": "來源與文章整理完成，待檢查及公開驗證"
-  },
+  "next_pillar": "hair-loss-conditions",
+  "last_published_date": "2026-11-12",
+  "last_article_id": "hair-drying",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hair-drying",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -26,6 +20,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=hair-growth-cycle",
       "commit": "5703c1d4244c683311a19321793513eb074f8bc2",
       "verification": "HTTP 200; public JSON article matched; headless Chrome rendered homepage card, article heading, sections and source link"
+    },
+    {
+      "date": "2026-11-12",
+      "pillar": "routine-myths",
+      "article_id": "hair-drying",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=hair-drying",
+      "commit": "bc3a241e37dfcadff6f839416d32a2a5408a763e",
+      "verification": "Public JSON contains article; HTTP 200; headless Chrome verified title, body, source link, homepage card and no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
