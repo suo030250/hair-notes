@@ -11,6 +11,8 @@
 
 - [頭髮生長週期](topics/hair-growth-cycle.md)：三階段、日常觀察與就醫溝通；不做自我診斷（reviewed）。
 
+- [吹風還是自然乾](topics/hair-drying.md)：熱度、距離、實驗與日常建議的適用範圍（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -26,6 +28,9 @@
 - [BAD 休止期落髮衛教](sources/bad-telogen-effluvium.md)：毛髮週期、時間延遲與評估範圍。
 - [AAD 掉髮衛教](sources/aad-hair-shedding.md)：日常脫落、髮量變化與皮膚科諮詢。
 
+- [Lee 等乾髮實驗](sources/lee-hair-drying-2011.md)：離體髮束、不同結構結果及外推限制。
+- [AAD 減少髮絲傷害](sources/aad-prevent-hair-damage.md)：輕柔吸水、低熱度與自然乾衛教。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -36,7 +41,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含三篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含四篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

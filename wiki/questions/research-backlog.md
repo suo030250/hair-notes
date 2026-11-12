@@ -3,7 +3,7 @@ title: "研究待辦與矛盾清單"
 type: question
 status: draft
 created: 2026-11-05
-updated: 2026-11-11
+updated: 2026-11-12
 tags: [研究, 待辦]
 sources:
   - ../sources/usti-scalp-health.md
@@ -42,3 +42,8 @@ sources:
 
 - Q008：Schneider 2009 綜述全文、資助與利益揭露尚未核對；目前只採 [摘要明示的三階段](../sources/schneider-hair-follicle-2009.md)，待全文。
 - Q009：[AAD](../sources/aad-hair-shedding.md) 提及一般每日 50–100 根，[BAD](../sources/bad-telogen-effluvium.md) 為 30–150 根；沒有足夠資料把差異判作矛盾或診斷門檻，公開文章不採固定數字。BAD 的兩狀態衛教與綜述三階段為簡化層級不同，保留兩者語境。
+
+## 2026-11-12 乾髮研究查核
+
+- Q010：Lee 2011 的自然乾 CMC 結果與 AAD「可能時自然乾」建議如何理解？保留 [離體實驗對象、不同指標及變動條件](../sources/lee-hair-drying-2011.md) 與 [一般衛教範圍](../sources/aad-prevent-hair-damage.md)，不視為誰推翻誰；漂染燙、捲度、不同機器及真人長期比較仍待研究。
+- Q011：Lee 2011 未明確交代捐髮者／獨立重複數與資助揭露，不能以 30 次處理當樣本數或宣稱無產業關係；待更完整研究資訊。
