@@ -5,7 +5,7 @@ Hair Notes 是給客人閱讀的美髮知識網站，隸屬 Hair × AI Studio。
 ## 目前成果
 
 - 網站已完成：首頁、共用文章頁、關於頁。
-- 已整理五篇文章：頭皮健康、洗頭頻率為閱讀草稿；頭髮生長週期、吹風／自然乾與染燙後日常護髮已核對來源。每日發布完成紀錄見 projects/editorial/daily-state.json。
+- 已整理六篇文章：頭皮健康、洗頭頻率為閱讀草稿；頭髮生長週期、吹風／自然乾、染燙後日常護髮與掉髮看診筆記已核對來源。每日發布完成紀錄見 projects/editorial/daily-state.json。
 - 支援全文搜尋、分類、清空篩選、文章目錄、來源跳轉與延伸閱讀。
 - 使用原生 HTML／CSS／JavaScript，不需安裝套件或執行建置。
 - GitHub Repository：[suo030250/hair-notes](https://github.com/suo030250/hair-notes)。

@@ -15,6 +15,8 @@
 
 - [染燙後的日常護髮](topics/color-perm-conditioning.md)：依髮質選擇潤髮位置、輕柔整理與服務溝通（reviewed）。
 
+- [掉髮觀察與看診筆記](topics/hair-loss-consultation.md)：整理時間、變化與問診資訊，不作自我診斷（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -33,6 +35,8 @@
 - [Lee 等乾髮實驗](sources/lee-hair-drying-2011.md)：離體髮束、不同結構結果及外推限制。
 - [AAD 減少髮絲傷害](sources/aad-prevent-hair-damage.md)：輕柔吸水、低熱度與自然乾衛教。
 
+- [AAD 落髮診斷衛教](sources/aad-hair-loss-diagnosis.md)：診斷流程、條件式檢查與多重原因的界線。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -43,7 +47,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含五篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含六篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

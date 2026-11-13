@@ -11,7 +11,13 @@
   "last_published_date": "2026-11-12",
   "last_article_id": "hair-drying",
   "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hair-drying",
-  "pending": null,
+  "pending": {
+    "date": "2026-11-13",
+    "pillar": "hair-loss-conditions",
+    "article_id": "hair-loss-consultation",
+    "stage": "validation",
+    "reason": "來源及內容已整理，待檢查與公開驗證"
+  },
   "history": [
     {
       "date": "2026-11-11",
