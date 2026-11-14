@@ -3,7 +3,7 @@ title: "研究待辦與矛盾清單"
 type: question
 status: draft
 created: 2026-11-05
-updated: 2026-11-12
+updated: 2026-11-14
 tags: [研究, 待辦]
 sources:
   - ../sources/usti-scalp-health.md
@@ -47,3 +47,8 @@ sources:
 
 - Q010：Lee 2011 的自然乾 CMC 結果與 AAD「可能時自然乾」建議如何理解？保留 [離體實驗對象、不同指標及變動條件](../sources/lee-hair-drying-2011.md) 與 [一般衛教範圍](../sources/aad-prevent-hair-damage.md)，不視為誰推翻誰；漂染燙、捲度、不同機器及真人長期比較仍待研究。
 - Q011：Lee 2011 未明確交代捐髮者／獨立重複數與資助揭露，不能以 30 次處理當樣本數或宣稱無產業關係；待更完整研究資訊。
+
+## 2026-11-14 生物素查核
+
+- Q012：一般、不缺乏成人額外補充生物素的頭髮成效，尚需回查較新原始人體對照研究及資助；本次 [NIH 資料](../sources/nih-biotin.md) 不等於截至 2026 的系統性回顧。特殊兒童個案與指甲結果不外推。
+- 檢驗干擾需依方法與醫療團隊判斷；[Health Canada](../sources/canada-biotin-lab-tests.md) 提醒不能變成所有人共用停用天數。

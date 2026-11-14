@@ -17,6 +17,8 @@
 
 - [掉髮觀察與看診筆記](topics/hair-loss-consultation.md)：整理時間、變化與問診資訊，不作自我診斷（reviewed）。
 
+- [生物素與頭髮](topics/biotin-hair-evidence.md)：分清缺乏、額外補充證據與檢驗溝通（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -37,6 +39,9 @@
 
 - [AAD 落髮診斷衛教](sources/aad-hair-loss-diagnosis.md)：診斷流程、條件式檢查與多重原因的界線。
 
+- [NIH 生物素資料](sources/nih-biotin.md)：營養角色、有限證據與閱讀範圍。
+- [Health Canada 生物素提醒](sources/canada-biotin-lab-tests.md)：檢驗干擾與醫療溝通。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -47,7 +52,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含六篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含七篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
