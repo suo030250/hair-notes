@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "ingredients-nutrition",
-  "last_published_date": "2026-11-13",
-  "last_article_id": "hair-loss-consultation",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hair-loss-consultation",
-  "pending": {
-    "date": "2026-11-14",
-    "pillar": "ingredients-nutrition",
-    "article_id": "biotin-hair-evidence",
-    "stage": "validation",
-    "reason": "文章及來源整理完成，待檢查與公開驗證"
-  },
+  "next_pillar": "scalp-physiology",
+  "last_published_date": "2026-11-14",
+  "last_article_id": "biotin-hair-evidence",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=biotin-hair-evidence",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -42,6 +36,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=hair-loss-consultation",
       "commit": "6d252eb4624af7daec5612e58daed7934599984c",
       "verification": "Public JSON; Chrome verified FAQ category, search, article title/body/source and 320px layout"
+    },
+    {
+      "date": "2026-11-14",
+      "pillar": "ingredients-nutrition",
+      "article_id": "biotin-hair-evidence",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=biotin-hair-evidence",
+      "commit": "ead9dadd8ac2e464406c2087353ea070f66318ef",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/source; 320px no horizontal overflow"
     }
   ],
   "automation_id": "hair-notes",
