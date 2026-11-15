@@ -3,7 +3,7 @@ title: "AAD：健康頭髮的日常洗護建議"
 type: source
 status: reviewed
 created: 2026-11-05
-updated: 2026-11-12
+updated: 2026-11-15
 tags: [洗髮, 專業機構, 日常護理]
 sources: []
 ---
@@ -39,3 +39,7 @@ sources: []
 - 第 5 點：溫柔解結、依髮質調整梳理時機，毛巾輕柔吸水。
 - 本頁不是特定品牌、髮膜、沙龍療程或結構修復產品的比較試驗；樣本與試驗分組不適用，本頁特定資助／利益關係未知。
 - 新增客人閱讀：[染燙後的日常護髮](../topics/color-perm-conditioning.md)。
+
+## 2026-11-15 微生態文章的洗護建議回查
+
+再次開啟原頁，另存 [今日文字快照](../../raw/hair/aad-healthy-hair-web-reader-2026-11-15.txt)；原有 HTML 版本保留。第 2–4 點支持依出油、髒污與髮質洗護、洗髮著重頭皮與潤髮照顧髮絲；這些並非調整菌相或治療脂漏性皮膚炎的臨床證明。新增 [頭皮微生態入門](../topics/scalp-microbiome.md)。

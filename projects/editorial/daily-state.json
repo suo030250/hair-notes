@@ -11,7 +11,13 @@
   "last_published_date": "2026-11-14",
   "last_article_id": "biotin-hair-evidence",
   "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=biotin-hair-evidence",
-  "pending": null,
+  "pending": {
+    "date": "2026-11-15",
+    "pillar": "scalp-physiology",
+    "article_id": "scalp-microbiome",
+    "stage": "validation",
+    "reason": "內容已整理，待檢查與公開驗證"
+  },
   "history": [
     {
       "date": "2026-11-11",
