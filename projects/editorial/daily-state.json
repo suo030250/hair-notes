@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "scalp-physiology",
-  "last_published_date": "2026-11-14",
-  "last_article_id": "biotin-hair-evidence",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=biotin-hair-evidence",
-  "pending": {
-    "date": "2026-11-15",
-    "pillar": "scalp-physiology",
-    "article_id": "scalp-microbiome",
-    "stage": "validation",
-    "reason": "內容已整理，待檢查與公開驗證"
-  },
+  "next_pillar": "routine-myths",
+  "last_published_date": "2026-11-15",
+  "last_article_id": "scalp-microbiome",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-microbiome",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -50,6 +44,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=biotin-hair-evidence",
       "commit": "ead9dadd8ac2e464406c2087353ea070f66318ef",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/source; 320px no horizontal overflow"
+    },
+    {
+      "date": "2026-11-15",
+      "pillar": "scalp-physiology",
+      "article_id": "scalp-microbiome",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-microbiome",
+      "commit": "f377d500d9393a30da2dbca86d93040f2dec9dd7",
+      "verification": "Public JSON; Chrome category/search/title/body/source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
