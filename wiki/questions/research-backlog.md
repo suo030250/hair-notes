@@ -3,7 +3,7 @@ title: "研究待辦與矛盾清單"
 type: question
 status: draft
 created: 2026-11-05
-updated: 2026-11-15
+updated: 2026-11-16
 tags: [研究, 待辦]
 sources:
   - ../sources/usti-scalp-health.md
@@ -57,3 +57,7 @@ sources:
 
 - Q013：[2020 綜述](../sources/scalp-microbiome-review-2020.md) 全文、資助與利益關係及各原始研究未核對；尚不能以微生態關聯支持特定產品人體療效。需分清菌相指標、症狀改善與生髮結果。
 - Q006 部分進展：新增 [AAD 成因衛教](../sources/aad-seborrheic-causes.md)，支持「脂漏性皮膚炎不由不乾淨造成」及多因素語境；USTI 其他屏障、氧化壓力與機轉仍待查，未將整項結案。
+
+## 2026-11-16 矽靈查核
+
+- Q014：[2025 綜述](../sources/silicones-hair-review-2025.md) 引用不同研究與書章；特定產品的沉積、清除與實際感受仍須回查原始方法、配方與人體比較，不能用一個有／無標籤外推。未把新技術或環境優勢當成已驗證通用結論。

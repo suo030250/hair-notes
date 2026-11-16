@@ -3,7 +3,7 @@ title: "AAD：健康頭髮的日常洗護建議"
 type: source
 status: reviewed
 created: 2026-11-05
-updated: 2026-11-15
+updated: 2026-11-16
 tags: [洗髮, 專業機構, 日常護理]
 sources: []
 ---
@@ -43,3 +43,7 @@ sources: []
 ## 2026-11-15 微生態文章的洗護建議回查
 
 再次開啟原頁，另存 [今日文字快照](../../raw/hair/aad-healthy-hair-web-reader-2026-11-15.txt)；原有 HTML 版本保留。第 2–4 點支持依出油、髒污與髮質洗護、洗髮著重頭皮與潤髮照顧髮絲；這些並非調整菌相或治療脂漏性皮膚炎的臨床證明。新增 [頭皮微生態入門](../topics/scalp-microbiome.md)。
+
+## 2026-11-16 矽靈文章的個人化選擇回查
+
+再次閱讀原頁，保存 [今日文字快照](../../raw/hair/aad-healthy-hair-web-reader-2026-11-16.txt)。第 1 點依髮質選產品、第 3–4 點分清頭皮清潔與髮絲潤護，作為選購溝通背景；AAD 本頁沒有比較矽靈配方。相關：[無矽靈一定比較好嗎](../topics/silicone-free-shampoo.md)。
