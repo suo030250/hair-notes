@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "routine-myths",
-  "last_published_date": "2026-11-15",
-  "last_article_id": "scalp-microbiome",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-microbiome",
-  "pending": {
-    "date": "2026-11-16",
-    "pillar": "routine-myths",
-    "article_id": "silicone-free-shampoo",
-    "stage": "validation",
-    "reason": "內容與來源整理完成，待檢查及公開驗證"
-  },
+  "next_pillar": "hair-loss-conditions",
+  "last_published_date": "2026-11-16",
+  "last_article_id": "silicone-free-shampoo",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=silicone-free-shampoo",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -58,6 +52,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-microbiome",
       "commit": "f377d500d9393a30da2dbca86d93040f2dec9dd7",
       "verification": "Public JSON; Chrome category/search/title/body/source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-16",
+      "pillar": "routine-myths",
+      "article_id": "silicone-free-shampoo",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=silicone-free-shampoo",
+      "commit": "b7e35b651a0b843f729ba05d50a19ae1a3e377fa",
+      "verification": "Public JSON; Chrome category/search/title/body/source; mobile 320px no horizontal overflow"
     }
   ],
   "automation_id": "hair-notes",
