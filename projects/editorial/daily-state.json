@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "hair-loss-conditions",
-  "last_published_date": "2026-11-16",
-  "last_article_id": "silicone-free-shampoo",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=silicone-free-shampoo",
-  "pending": {
-    "date": "2026-11-17",
-    "pillar": "hair-loss-conditions",
-    "article_id": "postpartum-hair-shedding",
-    "stage": "validation",
-    "reason": "內容及來源已整理，待檢查及公開驗證"
-  },
+  "next_pillar": "ingredients-nutrition",
+  "last_published_date": "2026-11-17",
+  "last_article_id": "postpartum-hair-shedding",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=postpartum-hair-shedding",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -66,6 +60,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=silicone-free-shampoo",
       "commit": "b7e35b651a0b843f729ba05d50a19ae1a3e377fa",
       "verification": "Public JSON; Chrome category/search/title/body/source; mobile 320px no horizontal overflow"
+    },
+    {
+      "date": "2026-11-17",
+      "pillar": "hair-loss-conditions",
+      "article_id": "postpartum-hair-shedding",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=postpartum-hair-shedding",
+      "commit": "5a7891098cd9c97f305a79e701b7ec7fd4af0d18",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
