@@ -3,7 +3,7 @@ title: "BAD：休止期落髮病人衛教"
 type: source
 status: reviewed
 created: 2026-11-11
-updated: 2026-11-13
+updated: 2026-11-17
 tags: [頭皮生理與科學, 毛囊週期]
 sources: []
 ---
@@ -47,3 +47,7 @@ BAD 的兩狀態衛教與綜述的三階段是說明粒度不同。本篇不混�
 - 採用定位：How is telogen effluvium diagnosed?（頭皮外觀、病史及可能檢查）；What causes telogen effluvium?（可能相關事件）；Other types of hair loss（有相似或共存情形）；Self-care（未改善時就醫）。這些不是可在家確診的規則。
 - 本次不轉述自行拉髮測試、治療或營養補充建議；頁面疾病專屬敘述不可外推所有落髮。
 - 新增 [掉髮觀察與看診筆記](../topics/hair-loss-consultation.md)。
+
+## 2026-11-17 產後主題回查
+
+再次開啟原頁，保存 [今日合併文字快照](../../raw/hair/postpartum-aad-bad-web-reader-2026-11-17.txt)，舊快照保留。What causes... 列生產為可能相關事件；Other types of hair loss 說明可能有相似或共存問題；Self-care 提醒持續未改善時就醫。本文不把休止期落髮完整病程直接等同每位產後客人，也不轉述營養補充或用藥建議。相關：[產後落髮](../topics/postpartum-hair-shedding.md)。
