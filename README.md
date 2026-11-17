@@ -89,11 +89,7 @@ node --check docs/assets/js/app.js
 
 每日台北時間 09:00，由目前聊天的 App 排程依四大支柱輪播研究、整理與發布一篇客人文章，詳見 [每日編輯計畫](projects/editorial/daily-plan.md)。使用本機資料時需保持電腦開機及 App 執行；GitHub 權限與網路也須可用。只有公開頁面驗證成功才算已發布，資料不足或發布失敗保留草稿並通知。2026-11-11 首輪已透過正確帳號的 GitHub 工具完成發布，並以 HTTP、公開文章資料及 Chrome 實際渲染驗證成功；後續仍需保持上述執行條件。
 
-## LLM Wiki 教學作業：洗髮與護髮入門
+## 洗髮與護髮教學
 
-- [完整六項繳交說明](https://suo030250.github.io/hair-notes/lessons/hair-care/report.html)
 - [LLM Wiki 閱讀成果](https://suo030250.github.io/hair-notes/lessons/hair-care/wiki.html)
-- [十二頁 HTML 教學簡報](https://suo030250.github.io/hair-notes/lessons/hair-care/index.html)
-- [獨立反思](https://suo030250.github.io/hair-notes/lessons/hair-care/reflection.html)
-
-供助教直接透過 HTTPS 閱讀，無需存取作者電腦或登入帳號。公開頁提供自行撰寫的摘要、來源連結與檢查結果摘要；原始全文、老師 PDF、baseline、證據卡和 QA 工作區不包含在本次發布。
+- [HTML 教學簡報](https://suo030250.github.io/hair-notes/lessons/hair-care/index.html)
