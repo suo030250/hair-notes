@@ -1,0 +1,99 @@
+{
+  "title": "洗髮與護髮入門：公開檢查摘要",
+  "checked_date": "2026-11-17",
+  "scope": "此為給助教的結果摘要，不包含聊天、核准憑證、原始 QA 輸出、baseline、證據卡檔案或工作區快照。",
+  "preflight": {
+    "checks": 78,
+    "status": "PASS"
+  },
+  "independent_review": {
+    "status": "PASS",
+    "pages": 12,
+    "source_documents_covered": 5,
+    "blocking_findings": 0,
+    "limits": "以稿件與引用 Wiki 摘要為準，未重新閱讀原始研究。"
+  },
+  "copy_fidelity": {
+    "elements": 83,
+    "status": "PASS"
+  },
+  "browser": {
+    "status": "PASS",
+    "checks": [
+      {
+        "name": "桌面載入與 12 頁結構",
+        "status": "PASS"
+      },
+      {
+        "name": "審查通過稿的 83 個文案元素與 HTML 逐字一致",
+        "status": "PASS"
+      },
+      {
+        "name": "下一頁與方向鍵",
+        "status": "PASS"
+      },
+      {
+        "name": "選單跳頁與邊界按鈕",
+        "status": "PASS"
+      },
+      {
+        "name": "情境題：未選、答錯與答對",
+        "status": "PASS"
+      },
+      {
+        "name": "表單方向鍵保留原生操作",
+        "status": "PASS"
+      },
+      {
+        "name": "鍵盤可見焦點",
+        "status": "PASS"
+      },
+      {
+        "name": "320px 換頁控制列不遮住各頁標題",
+        "status": "PASS"
+      },
+      {
+        "name": "桌面各頁截圖與水平溢出",
+        "status": "PASS"
+      },
+      {
+        "name": "320px 三頁與全部投影片無水平溢出",
+        "status": "PASS"
+      },
+      {
+        "name": "來源連結與 Wiki 錨點",
+        "status": "PASS"
+      },
+      {
+        "name": "外部網路停用仍可閱讀三頁",
+        "status": "PASS"
+      },
+      {
+        "name": "直接 file 開啟可讀與換頁",
+        "status": "PASS"
+      },
+      {
+        "name": "無 JavaScript 可讀全文",
+        "status": "PASS"
+      },
+      {
+        "name": "無 JavaScript 執行錯誤",
+        "status": "PASS"
+      },
+      {
+        "name": "既有首頁、文章、關於頁與互動回歸",
+        "status": "PASS"
+      },
+      {
+        "name": "既有文章 JSON 載入失敗提示",
+        "status": "PASS"
+      }
+    ]
+  },
+  "repairs": {
+    "content_rewrites": 0,
+    "local_layout_repairs": 1,
+    "reason": "手機底部換頁控制列遮住正文，已改到上方並重新檢查。"
+  },
+  "public_access": "GitHub Pages 公開網址，無需登入；部署完成以公開網址實測為準。"
+}
