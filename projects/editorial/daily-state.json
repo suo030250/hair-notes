@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "ingredients-nutrition",
-  "last_published_date": "2026-11-17",
-  "last_article_id": "postpartum-hair-shedding",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=postpartum-hair-shedding",
-  "pending": {
-    "date": "2026-11-18",
-    "pillar": "ingredients-nutrition",
-    "article_id": "zinc-hair-nutrition",
-    "stage": "validation",
-    "reason": "隔離快照內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "scalp-physiology",
+  "last_published_date": "2026-11-18",
+  "last_article_id": "zinc-hair-nutrition",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=zinc-hair-nutrition",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -74,6 +68,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=postpartum-hair-shedding",
       "commit": "5a7891098cd9c97f305a79e701b7ec7fd4af0d18",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-18",
+      "pillar": "ingredients-nutrition",
+      "article_id": "zinc-hair-nutrition",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=zinc-hair-nutrition",
+      "commit": "f28b591383999c73460e2336263267f84517b469",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/NIH source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
