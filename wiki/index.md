@@ -25,6 +25,8 @@
 
 - [產後落髮](topics/postpartum-hair-shedding.md)：常見時間走向、外觀整理與就醫溝通界線（reviewed）。
 
+- [鋅的飲食與補充界線](topics/zinc-hair-nutrition.md)：食物、重複補充與評估侷限（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -55,6 +57,9 @@
 
 - [AAD 產後落髮衛教](sources/aad-postpartum-hair.md)：常見時間與豐盈外觀建議，非恢復保證。
 
+- [NIH 鋅資料](sources/nih-zinc.md)：食物、功能、判讀侷限與過量風險。
+- [AAD 落髮照護與補充](sources/aad-hair-loss-self-care.md)：補充前的需求評估。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -65,7 +70,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十一篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

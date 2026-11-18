@@ -3,7 +3,7 @@ title: "研究待辦與矛盾清單"
 type: question
 status: draft
 created: 2026-11-05
-updated: 2026-11-16
+updated: 2026-11-18
 tags: [研究, 待辦]
 sources:
   - ../sources/usti-scalp-health.md
@@ -61,3 +61,7 @@ sources:
 ## 2026-11-16 矽靈查核
 
 - Q014：[2025 綜述](../sources/silicones-hair-review-2025.md) 引用不同研究與書章；特定產品的沉積、清除與實際感受仍須回查原始方法、配方與人體比較，不能用一個有／無標籤外推。未把新技術或環境優勢當成已驗證通用結論。
+
+## 2026-11-18 鋅查核
+
+- Q015：是否缺乏、不同落髮類型及補鋅成效仍需原始人體比較與資助查核；[NIH 資料](../sources/nih-zinc.md) 與 [AAD 衛教](../sources/aad-hair-loss-self-care.md) 不能替特定生髮產品背書。
