@@ -685,5 +685,67 @@
       "營養功能、缺乏與不缺乏者額外補充的成效不可互換；未查核品牌或特定配方。",
       "不提供缺乏診斷、補充劑劑量、停藥或服用間隔；飲食與產品清單是本專案溝通提案。"
     ]
+  },
+  {
+    "id": "scalp-sun-protection",
+    "title": "頭皮也需要防曬嗎？從露出的頭皮與帽子開始",
+    "category": "hair-care",
+    "summary": "出門前除了臉，也看看露出的頭皮。從帽子、遮蔭到防曬產品的標示，整理容易忽略的防護位置與使用原則，讓日常照護更完整。",
+    "status": "reviewed",
+    "created": "2026-11-19",
+    "updated": "2026-11-19",
+    "tags": [
+      "頭皮生理與科學",
+      "頭皮防曬",
+      "紫外線"
+    ],
+    "wikiPath": "wiki/topics/scalp-sun-protection.md",
+    "sections": [
+      {
+        "heading": "頭皮也是皮膚，陰天也要留意",
+        "paragraphs": [
+          "紫外線（UV）看不見，但能傷害皮膚細胞，天氣涼或多雲也不代表沒有暴露。[2] AAD 特別提醒，頭髮稀疏時可在頭皮使用防曬，或戴寬帽簷帽子。[1]",
+          "出門前看看露出的頭皮、耳朵和後頸，是我們整理的日常檢查方式；不需要先用髮量判定自己是否「安全」，也不把防曬當作生髮方法。"
+        ]
+      },
+      {
+        "heading": "先看帽子有沒有遮到需要的位置",
+        "paragraphs": [
+          "CDC 建議選四周有帽簷、織法緊密的帽子，讓臉、耳朵與後頸也得到遮護。有孔洞讓陽光穿過的草帽，防護會有侷限；棒球帽則需另留意耳朵及後頸。[2]",
+          "找陰影休息也有幫助，但遮蔭仍要和其他防護搭配。[2] 我們建議實際戴上帽子看看露出的範圍，不只依帽款名稱判斷。"
+        ]
+      },
+      {
+        "heading": "防曬怎麼選、何時補？",
+        "paragraphs": [
+          "本文採 AAD 的建議：選 SPF 30 以上、廣效且抗水的產品。廣效指涵蓋 UVA 與 UVB 兩類紫外線；仍須依標示正確使用。[1]",
+          "AAD 建議在戶外約每兩小時補擦，游泳或流汗後也要補擦。[1] 別因為標示抗水，就以為不必再補。頭皮若不方便均勻塗抹，可把寬帽簷帽子的遮護一起考慮；本文沒有評比頭皮專用噴霧或粉末。"
+        ]
+      },
+      {
+        "heading": "把防護安排變成日常溝通",
+        "paragraphs": [
+          "可先列出平常戶外活動、戴帽習慣與使用的產品，再和設計師討論髮型及整理便利性。這是本專案的溝通提案，不是個別皮膚診斷。",
+          "若擔心已有日曬造成的皮膚變化，AAD 建議由皮膚科醫師檢查並給予建議。[1] 本篇聚焦預防，沒有提供曬傷治療或安全曝曬時數。"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "American Academy of Dermatology Association — How to apply sunscreen",
+        "url": "https://www.aad.org/public/everyday-care/sun-protection/shade-clothing-sunscreen/how-to-apply-sunscreen",
+        "accessed": "2026-11-19"
+      },
+      {
+        "title": "CDC；National Center for Chronic Disease Prevention and Health Promotion / Division of Cancer Prevention and Control — Sun Safety Facts",
+        "url": "https://www.cdc.gov/skin-cancer/sun-safety/index.html",
+        "accessed": "2026-11-19"
+      }
+    ],
+    "limitations": [
+      "依據專業機構衛教，非頭皮防曬產品的人體比較試驗；未逐一回查原始研究、影片或圖片。",
+      "AAD 建議 SPF 30 以上，CDC 頁面寫 SPF 15 以上；本文採 AAD 建議並保留差異，未查明門檻不同的背景。",
+      "未量化髮量、髮型或帽子實際防護力，也未評比品牌、髮品、防曬噴霧或粉末；不提供疾病診斷、處方或生髮保證。"
+    ]
   }
 ]

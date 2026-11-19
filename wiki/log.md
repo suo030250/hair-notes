@@ -201,3 +201,9 @@
 - 發布提交：`f28b591383999c73460e2336263267f84517b469`。公開 JSON、Chrome 常見問題分類／搜尋、文章標題／正文／NIH 來源與 320px 無水平溢出均通過。
 - [公開文章](https://suo030250.github.io/hair-notes/article.html?id=zinc-hair-nutrition) 已可閱讀；daily-state 記錄今日完成，下一支柱為頭皮生理與科學。
 - 發布採最新遠端隔離快照；原有未提交教學修改予以保留，raw 全文不公開。
+
+## [2026-11-19] ingest | 每日文章：頭皮防曬
+
+- 支柱：頭皮生理與科學；查重後新增 scalp-sun-protection。來源 AAD 與 CDC，保存 raw HTML／已讀文字及取得限制；CDC HTML 403，web reader 可讀。
+- 新增兩份來源摘要、主題與公開文章，更新索引、Q016、README 與 pending。來源屬衛教而非原始試驗，保留樣本不適用、資助未知、SPF 門檻不同與媒體未讀限制。
+- 發布使用最新遠端隔離快照，不上傳 raw 全文、暫存或本機未提交教學修改。

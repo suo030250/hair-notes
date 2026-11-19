@@ -65,3 +65,7 @@ sources:
 ## 2026-11-18 鋅查核
 
 - Q015：是否缺乏、不同落髮類型及補鋅成效仍需原始人體比較與資助查核；[NIH 資料](../sources/nih-zinc.md) 與 [AAD 衛教](../sources/aad-hair-loss-self-care.md) 不能替特定生髮產品背書。
+
+## Q016：防曬 SPF 門檻與頭皮專用產品
+
+2026-11-19：AAD 建議 SPF 30 以上，CDC 頁面為 SPF 15 以上，保留來源與日期，不判定一方錯誤；公開文章明確採 AAD。差異背景及頭皮劑型、髮量／帽子防護的原始比較證據尚待查核。見 [AAD](../sources/aad-sunscreen.md)、[CDC](../sources/cdc-sun-safety.md) 與 [主題](../topics/scalp-sun-protection.md)。不推論生髮或品牌療效。
