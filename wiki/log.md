@@ -207,3 +207,8 @@
 - 支柱：頭皮生理與科學；查重後新增 scalp-sun-protection。來源 AAD 與 CDC，保存 raw HTML／已讀文字及取得限制；CDC HTML 403，web reader 可讀。
 - 新增兩份來源摘要、主題與公開文章，更新索引、Q016、README 與 pending。來源屬衛教而非原始試驗，保留樣本不適用、資助未知、SPF 門檻不同與媒體未讀限制。
 - 發布使用最新遠端隔離快照，不上傳 raw 全文、暫存或本機未提交教學修改。
+
+## [2026-11-19] create | 頭皮防曬文章公開驗證完成
+
+- 發布提交 `2ab91c47f43ae0916c8fe0c2e1106bacf8b8fc21`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=scalp-sun-protection) 可讀。公開 JSON、Chrome 日常護理分類／搜尋／標題／正文／CDC 來源及 320px 無水平溢出均通過。
+- 今日狀態記為完成，下一支柱為洗護習慣與迷思破除。raw 全文僅內部保存，既有未提交教學修改予以保留。

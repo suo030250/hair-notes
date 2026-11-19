@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "scalp-physiology",
-  "last_published_date": "2026-11-18",
-  "last_article_id": "zinc-hair-nutrition",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=zinc-hair-nutrition",
-  "pending": {
-    "date": "2026-11-19",
-    "pillar": "scalp-physiology",
-    "article_id": "scalp-sun-protection",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "routine-myths",
+  "last_published_date": "2026-11-19",
+  "last_article_id": "scalp-sun-protection",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-sun-protection",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -82,6 +76,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=zinc-hair-nutrition",
       "commit": "f28b591383999c73460e2336263267f84517b469",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/NIH source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-19",
+      "pillar": "scalp-physiology",
+      "article_id": "scalp-sun-protection",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-sun-protection",
+      "commit": "2ab91c47f43ae0916c8fe0c2e1106bacf8b8fc21",
+      "verification": "Public JSON; Chrome hair-care category/search/title/body/CDC source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
