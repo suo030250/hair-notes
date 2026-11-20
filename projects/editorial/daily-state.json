@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "routine-myths",
-  "last_published_date": "2026-11-19",
-  "last_article_id": "scalp-sun-protection",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-sun-protection",
-  "pending": {
-    "date": "2026-11-20",
-    "pillar": "routine-myths",
-    "article_id": "dry-shampoo-between-washes",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "hair-loss-conditions",
+  "last_published_date": "2026-11-20",
+  "last_article_id": "dry-shampoo-between-washes",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=dry-shampoo-between-washes",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -90,6 +84,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-sun-protection",
       "commit": "2ab91c47f43ae0916c8fe0c2e1106bacf8b8fc21",
       "verification": "Public JSON; Chrome hair-care category/search/title/body/CDC source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-20",
+      "pillar": "routine-myths",
+      "article_id": "dry-shampoo-between-washes",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=dry-shampoo-between-washes",
+      "commit": "23fe05922f130c8ea42c1c0f0eb3c7c647d13889",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/AAD source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
