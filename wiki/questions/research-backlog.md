@@ -69,3 +69,7 @@ sources:
 ## Q016：防曬 SPF 門檻與頭皮專用產品
 
 2026-11-19：AAD 建議 SPF 30 以上，CDC 頁面為 SPF 15 以上，保留來源與日期，不判定一方錯誤；公開文章明確採 AAD。差異背景及頭皮劑型、髮量／帽子防護的原始比較證據尚待查核。見 [AAD](../sources/aad-sunscreen.md)、[CDC](../sources/cdc-sun-safety.md) 與 [主題](../topics/scalp-sun-protection.md)。不推論生髮或品牌療效。
+
+## Q017：乾洗髮的頻率與產品比較證據
+
+2026-11-20：AAD 受訪醫師建議用一至兩次後水洗，同時明言沒有固定通用次數；不可當安全上限。配方、髮質、累積使用與不適風險的原始比較資料待查，未外推染後保色或個人落髮因果。見 [來源](../sources/aad-dry-shampoo.md)、[主題](../topics/dry-shampoo-between-washes.md)。

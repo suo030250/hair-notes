@@ -47,3 +47,7 @@ sources: []
 ## 2026-11-16 矽靈文章的個人化選擇回查
 
 再次閱讀原頁，保存 [今日文字快照](../../raw/hair/aad-healthy-hair-web-reader-2026-11-16.txt)。第 1 點依髮質選產品、第 3–4 點分清頭皮清潔與髮絲潤護，作為選購溝通背景；AAD 本頁沒有比較矽靈配方。相關：[無矽靈一定比較好嗎](../topics/silicone-free-shampoo.md)。
+
+## 2026-11-20 乾洗髮文章回查
+
+再次實際開啟原頁，頁尾仍標更新 2024-08-12；另存 [HTML](../../raw/hair/aad-healthy-hair-2026-11-20.html)、[閱讀文字](../../raw/hair/dry-shampoo-web-reader-2026-11-20.json) 及 [取得紀錄](../../raw/hair/dry-shampoo-ingest-2026-11-20.json)。採第 2 點按出油、髒污與髮質安排清洗、第 3 點清潔頭皮；未觀看影片或視讀圖片。本頁與乾洗髮專文同屬 AAD 衛教，不當成兩組獨立試驗，不提供品牌或個人安全間隔。相關：[乾洗髮與清潔](../topics/dry-shampoo-between-washes.md)。

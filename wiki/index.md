@@ -29,6 +29,8 @@
 
 - [頭皮防曬](topics/scalp-sun-protection.md)：露出頭皮、帽子與防曬標示；保留機構建議差異（reviewed）。
 
+- [乾洗髮與清潔](topics/dry-shampoo-between-washes.md)：吸油外觀、水洗安排及刺激時的溝通界線（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -65,6 +67,8 @@
 - [AAD 防曬使用](sources/aad-sunscreen.md)：稀疏頭皮遮護與 SPF 30 建議。
 - [CDC 日曬安全](sources/cdc-sun-safety.md)：紫外線、帽子及 SPF 門檻差異。
 
+- [AAD 乾洗髮建議](sources/aad-dry-shampoo.md)：少量使用、清洗安排及衛教證據界線。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -75,7 +79,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十二篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十三篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
