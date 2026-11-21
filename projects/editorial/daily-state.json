@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "hair-loss-conditions",
-  "last_published_date": "2026-11-20",
-  "last_article_id": "dry-shampoo-between-washes",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=dry-shampoo-between-washes",
-  "pending": {
-    "date": "2026-11-21",
-    "pillar": "hair-loss-conditions",
-    "article_id": "tight-hairstyles-traction",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "ingredients-nutrition",
+  "last_published_date": "2026-11-21",
+  "last_article_id": "tight-hairstyles-traction",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=tight-hairstyles-traction",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -98,6 +92,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=dry-shampoo-between-washes",
       "commit": "23fe05922f130c8ea42c1c0f0eb3c7c647d13889",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/AAD source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-21",
+      "pillar": "hair-loss-conditions",
+      "article_id": "tight-hairstyles-traction",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=tight-hairstyles-traction",
+      "commit": "a8dd2380e9f2465b7b6246d252be61510f6443dc",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/BAD source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
