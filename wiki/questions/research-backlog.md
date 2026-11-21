@@ -73,3 +73,7 @@ sources:
 ## Q017：乾洗髮的頻率與產品比較證據
 
 2026-11-20：AAD 受訪醫師建議用一至兩次後水洗，同時明言沒有固定通用次數；不可當安全上限。配方、髮質、累積使用與不適風險的原始比較資料待查，未外推染後保色或個人落髮因果。見 [來源](../sources/aad-dry-shampoo.md)、[主題](../topics/dry-shampoo-between-washes.md)。
+
+## Q018：牽引性落髮的造型條件與版本更新
+
+2026-11-21：BAD 2019-02 衛教標示預定 2022-02 審查，未見完成證據；保留原日期，用 AAD 2024-11-06 交叉核對減少拉扯與就醫原則，不採舊用藥或生長時間。不同髮質、配件、固定時長及安全拉力的原始比較仍待查，不外推個人診斷或恢復。見 [AAD](../sources/aad-traction.md)、[BAD](../sources/bad-traction.md)、[主題](../topics/tight-hairstyles-traction.md)。
