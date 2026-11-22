@@ -240,3 +240,8 @@
 - 支柱：成分解析與飲食營養；hydrolyzed-protein-hair-care 查重。保存 Dias 2015／AAD HTML、已讀文字及取得紀錄；新增綜述摘要、主題與公開文章，回查既有 AAD 來源，更新索引、Q019、README 與 pending。
 - 保留敘述綜述非產品試驗、閱讀範圍與原始實驗未查限制；記錄綜述 Nil 資助及無利益衝突聲明，不外推底層文獻。沒有永久修復、生髮、品牌效果或操作溫度承諾。
 - 發布採最新遠端隔離快照，排除 raw 全文、暫存與原有未提交教學修改。
+
+## [2026-11-22] create | 水解蛋白護髮文章公開驗證完成
+
+- 發布提交 `7a133dbcd67bfa03034fcd99aacace720c9f4076`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=hydrolyzed-protein-hair-care) 可讀。公開 JSON、Chrome 日常護理分類／搜尋／標題／正文／綜述來源及 320px 無水平溢出均通過。
+- 今日狀態記為完成，下一支柱為頭皮生理與科學。raw 全文限內部保存，原有未提交教學修改保留。

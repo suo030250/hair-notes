@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "ingredients-nutrition",
-  "last_published_date": "2026-11-21",
-  "last_article_id": "tight-hairstyles-traction",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=tight-hairstyles-traction",
-  "pending": {
-    "date": "2026-11-22",
-    "pillar": "ingredients-nutrition",
-    "article_id": "hydrolyzed-protein-hair-care",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "scalp-physiology",
+  "last_published_date": "2026-11-22",
+  "last_article_id": "hydrolyzed-protein-hair-care",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=hydrolyzed-protein-hair-care",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -106,6 +100,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=tight-hairstyles-traction",
       "commit": "a8dd2380e9f2465b7b6246d252be61510f6443dc",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/BAD source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-22",
+      "pillar": "ingredients-nutrition",
+      "article_id": "hydrolyzed-protein-hair-care",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=hydrolyzed-protein-hair-care",
+      "commit": "7a133dbcd67bfa03034fcd99aacace720c9f4076",
+      "verification": "Public JSON; Chrome hair-care category/search/title/body/review source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
