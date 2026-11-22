@@ -51,3 +51,7 @@ sources: []
 ## 2026-11-20 乾洗髮文章回查
 
 再次實際開啟原頁，頁尾仍標更新 2024-08-12；另存 [HTML](../../raw/hair/aad-healthy-hair-2026-11-20.html)、[閱讀文字](../../raw/hair/dry-shampoo-web-reader-2026-11-20.json) 及 [取得紀錄](../../raw/hair/dry-shampoo-ingest-2026-11-20.json)。採第 2 點按出油、髒污與髮質安排清洗、第 3 點清潔頭皮；未觀看影片或視讀圖片。本頁與乾洗髮專文同屬 AAD 衛教，不當成兩組獨立試驗，不提供品牌或個人安全間隔。相關：[乾洗髮與清潔](../topics/dry-shampoo-between-washes.md)。
+
+## 2026-11-22 蛋白護髮文章回查
+
+再次開啟原頁，頁尾仍標更新 2024-08-12；保存 [HTML](../../raw/hair/aad-healthy-hair-2026-11-22.html)、[已讀文字](../../raw/hair/protein-web-reader-2026-11-22.json) 與 [取得紀錄](../../raw/hair/protein-ingest-2026-11-22.json)。採第 1 點依髮質選產品、第 4 點潤髮用途及第 5–6 點溫柔整理與減少熱傷害；未視讀圖片或觀看影片。本頁未比較水解蛋白配方，不作成分效果證明。相關：[水解蛋白護髮](../topics/hydrolyzed-protein-hair-care.md)。

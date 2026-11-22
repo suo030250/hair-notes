@@ -33,6 +33,8 @@
 
 - [綁髮與牽引性落髮](topics/tight-hairstyles-traction.md)：減少拉扯、不適調整與變化溝通；不作自我診斷（reviewed）。
 
+- [水解蛋白護髮](topics/hydrolyzed-protein-hair-care.md)：成分作用、調理感受與原結構恢復的證據界線（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -74,6 +76,8 @@
 - [AAD 拉扯髮型](sources/aad-traction.md)：緊綁、減少張力及就醫評估。
 - [BAD 牽引性落髮](sources/bad-traction.md)：病人衛教、階段限制與舊版本審查疑慮。
 
+- [Dias 2015 髮品綜述](sources/dias-hair-cosmetics-2015.md)：蛋白調理、配方互動與敘述綜述限制。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -84,7 +88,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十四篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十五篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
