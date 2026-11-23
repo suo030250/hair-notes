@@ -35,6 +35,8 @@
 
 - [水解蛋白護髮](topics/hydrolyzed-protein-hair-care.md)：成分作用、調理感受與原結構恢復的證據界線（reviewed）。
 
+- [頭皮汗液與皮脂](topics/scalp-sebum-and-sweat.md)：汗腺與皮脂腺分工、表面混合物與觀察界線（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -78,6 +80,9 @@
 
 - [Dias 2015 髮品綜述](sources/dias-hair-cosmetics-2015.md)：蛋白調理、配方互動與敘述綜述限制。
 
+- [Cleveland Clinic 皮脂腺](sources/cleveland-sebaceous-glands.md)：皮脂、汗液與生理功能。
+- [DermNet 皮脂](sources/dermnet-sebum.md)：脂質與表面混合物概念。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -88,7 +93,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十五篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十六篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

@@ -81,3 +81,7 @@ sources:
 ## Q019：蛋白調理、結構修復與產品比較
 
 2026-11-22：2015 敘述綜述可作配方概念背景；分子附著／滲透與使用感不等於永久還原原結構或人體生髮。原引文 25 等髮束實驗的樣本、方法及資助尚未回查，也未檢索近年所有新修護技術。不得用單一成分替產品排名或指定加熱操作。見 [來源](../sources/dias-hair-cosmetics-2015.md)、[主題](../topics/hydrolyzed-protein-hair-care.md)。
+
+## Q020：頭皮濕與油的感受如何對應測量
+
+2026-11-23：一般皮膚衛教說明汗與皮脂不同，表面為混合物；不能從觸感判斷分泌量、荷爾蒙或落髮原因。頭皮各情境測量與產品比較研究尚待查。DermNet 2014、Cleveland Clinic 2022 保留日期，後者引用前者，不算兩組獨立研究；不採用藥與治療建議。見 [主題](../topics/scalp-sebum-and-sweat.md)、[來源一](../sources/cleveland-sebaceous-glands.md)、[來源二](../sources/dermnet-sebum.md)。
