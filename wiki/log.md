@@ -262,3 +262,8 @@
 - 支柱：洗護習慣與迷思破除；gentle-combing-detangling 查重。先保存兩份 AAD HTML、閱讀文字、日期與雜湊，再附加既有來源摘要，新增主題及公開文章，更新索引、Q021、README 與 pending。
 - 聚焦一百下迷思與梳理解結，保留髮質條件及衛教非試驗、資助未知、影片未讀限制；不評比品牌，不訂個人次數／力道，不宣稱生髮或自行診斷。
 - 用最新遠端隔離快照發布，排除 raw 全文及原有未提交教學修改。
+
+## [2026-11-24] create | 溫柔梳髮文章公開驗證完成
+
+- 發布提交 `c94d12cb159eb4a4ca902f6c56de7bba89c8cecd`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=gentle-combing-detangling) 可讀。公開 JSON、Chrome 日常護理分類／搜尋／標題／正文／AAD 來源及 320px 無水平溢出均通過。
+- 今日完成，下一支柱為落髮原因與頭皮狀況。raw 全文限內部保存，原有未提交教學修改保留。
