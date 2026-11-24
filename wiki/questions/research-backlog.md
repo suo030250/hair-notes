@@ -85,3 +85,7 @@ sources:
 ## Q020：頭皮濕與油的感受如何對應測量
 
 2026-11-23：一般皮膚衛教說明汗與皮脂不同，表面為混合物；不能從觸感判斷分泌量、荷爾蒙或落髮原因。頭皮各情境測量與產品比較研究尚待查。DermNet 2014、Cleveland Clinic 2022 保留日期，後者引用前者，不算兩組獨立研究；不採用藥與治療建議。見 [主題](../topics/scalp-sebum-and-sweat.md)、[來源一](../sources/cleveland-sebaceous-glands.md)、[來源二](../sources/dermnet-sebum.md)。
+
+## Q021：梳理次數、力道與髮質比較證據
+
+2026-11-24：AAD 衛教否定每日一百下迷思，並依直髮／粗厚捲髮調整時機；不代表已確立每人的安全次數、拉力或乾燥比例。梳具、染燙髮況與斷裂的直接比較待原始研究，勿外推生髮或診斷。兩份 AAD 頁不作獨立試驗。見 [主題](../topics/gentle-combing-detangling.md)、[傷害來源](../sources/aad-prevent-hair-damage.md)、[洗護來源](../sources/aad-healthy-hair.md)。

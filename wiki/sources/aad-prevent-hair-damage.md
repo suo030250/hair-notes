@@ -41,3 +41,10 @@ sources: []
 ## 2026-11-12 染燙護髮回查
 
 今日沿用原快照，另外讀取第 2、9、10 點：洗後使用潤髮乳、避免過密補染／重複化學處理，以及輕柔梳理解結。本次不將原頁的通用服務間隔套成所有產品與客人的固定操作時程。新增 [染燙後的日常護髮](../topics/color-perm-conditioning.md)。
+
+## 2026-11-24 梳髮主題回查
+
+- 本次實際讀取 10 hair care habits that can damage your hair，網址為 https://www.aad.org/public/everyday-care/hair-scalp-care/hair/habits-that-damage-hair ，作為既有 stop-damage 衛教的相關版本回查，不覆寫舊快照與名稱。作者、發布／更新日期未知。第 10 點否定每日一百下迷思，建議只按整理需要梳理、寬齒梳溫柔解結與避免拉扯；第 4 點區分直髮與捲髮的時機；When to see a dermatologist 支持未改善或髮量疑慮時就醫。
+- 另存 [HTML](../../raw/hair/aad-prevent-hair-damage-2026-11-24.html)、[已讀文字](../../raw/hair/comb-web-reader-2026-11-24.json)、[取得／雜湊](../../raw/hair/comb-ingest-2026-11-24.json)。先前版本保留，全文限內部研究，公開自寫摘要與連結。
+- 來源為 AAD 衛教，非單一試驗，樣本、介入、對照不適用；頁面特定資助／利益關係未知。兩頁不是獨立臨床試驗；未觀看嵌入影片或逐一回查底層研究。未評比梳具、個人安全拉力或生髮成效。
+- [溫柔梳髮](../topics/gentle-combing-detangling.md)；清單為溝通提案，不是落髮診斷量表。

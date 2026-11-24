@@ -37,6 +37,8 @@
 
 - [頭皮汗液與皮脂](topics/scalp-sebum-and-sweat.md)：汗腺與皮脂腺分工、表面混合物與觀察界線（reviewed）。
 
+- [溫柔梳髮與解結](topics/gentle-combing-detangling.md)：每日一百下迷思、髮尾解結與依髮質調整時機（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -93,7 +95,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十六篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十七篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
