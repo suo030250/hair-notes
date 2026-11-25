@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "hair-loss-conditions",
-  "last_published_date": "2026-11-24",
-  "last_article_id": "gentle-combing-detangling",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=gentle-combing-detangling",
-  "pending": {
-    "date": "2026-11-25",
-    "pillar": "hair-loss-conditions",
-    "article_id": "scalp-flakes-consultation",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "ingredients-nutrition",
+  "last_published_date": "2026-11-25",
+  "last_article_id": "scalp-flakes-consultation",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-flakes-consultation",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -130,6 +124,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=gentle-combing-detangling",
       "commit": "c94d12cb159eb4a4ca902f6c56de7bba89c8cecd",
       "verification": "Public JSON; Chrome hair-care category/search/title/body/AAD source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-25",
+      "pillar": "hair-loss-conditions",
+      "article_id": "scalp-flakes-consultation",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-flakes-consultation",
+      "commit": "dd2298fcc786c6baf7c9ea50cbd80c1d075d6e23",
+      "verification": "Public JSON; Chrome FAQ category/search/title/body/NHS source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
