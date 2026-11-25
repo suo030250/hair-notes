@@ -39,6 +39,8 @@
 
 - [溫柔梳髮與解結](topics/gentle-combing-detangling.md)：每日一百下迷思、髮尾解結與依髮質調整時機（reviewed）。
 
+- [頭皮屑觀察與溝通](topics/scalp-flakes-consultation.md)：衛生迷思、重疊症狀與轉介訊息，不作自我診斷（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -85,6 +87,9 @@
 - [Cleveland Clinic 皮脂腺](sources/cleveland-sebaceous-glands.md)：皮脂、汗液與生理功能。
 - [DermNet 皮脂](sources/dermnet-sebum.md)：脂質與表面混合物概念。
 
+- [NHS 頭皮屑](sources/nhs-dandruff.md)：衛生迷思及求助情況；保留審查日期疑點。
+- [AAD 乾燥與頭皮狀況](sources/aad-dry-scalp.md)：相似表現、分辨與轉介界線。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -95,7 +100,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十七篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十八篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

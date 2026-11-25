@@ -89,3 +89,7 @@ sources:
 ## Q021：梳理次數、力道與髮質比較證據
 
 2026-11-24：AAD 衛教否定每日一百下迷思，並依直髮／粗厚捲髮調整時機；不代表已確立每人的安全次數、拉力或乾燥比例。梳具、染燙髮況與斷裂的直接比較待原始研究，勿外推生髮或診斷。兩份 AAD 頁不作獨立試驗。見 [主題](../topics/gentle-combing-detangling.md)、[傷害來源](../sources/aad-prevent-hair-damage.md)、[洗護來源](../sources/aad-healthy-hair.md)。
+
+## Q022：頭皮屑來源日期與外觀分類界線
+
+2026-11-25：NHS Dandruff HTML 的 published 2017-10-18、modified 2026-09-10，但頁尾／lastReviewed 顯示未來 2029-07-27；真實審查日待確認，不視為完成審查。僅採觀察與轉介；AAD 2021 頁交叉支持相似表現須醫療分辨。未比較去屑配方或驗證自測分類，不把所有脫屑視為同病。見 [NHS](../sources/nhs-dandruff.md)、[AAD](../sources/aad-dry-scalp.md)、[主題](../topics/scalp-flakes-consultation.md)。

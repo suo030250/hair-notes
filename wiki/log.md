@@ -267,3 +267,9 @@
 
 - 發布提交 `c94d12cb159eb4a4ca902f6c56de7bba89c8cecd`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=gentle-combing-detangling) 可讀。公開 JSON、Chrome 日常護理分類／搜尋／標題／正文／AAD 來源及 320px 無水平溢出均通過。
 - 今日完成，下一支柱為落髮原因與頭皮狀況。raw 全文限內部保存，原有未提交教學修改保留。
+
+## [2026-11-25] ingest | 每日文章：頭皮屑觀察與溝通
+
+- 支柱：落髮原因與頭皮狀況；scalp-flakes-consultation 查重。先保存 NHS／AAD HTML、閱讀文字、取得資訊及雜湊，再新增兩份摘要、主題與公開文章，更新索引、Q022、README 及 pending。
+- 核對 NHS 未來審查日期異常，不當已完成審查；保留 AAD 2021 日期、非試驗、資助未知及媒體未讀限制。只作觀察及轉介，不採成分藥單、療程、診斷表或生髮保證。
+- 採最新遠端隔離快照，排除 raw 全文及原有未提交教學修改。
