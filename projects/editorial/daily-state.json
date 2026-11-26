@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "ingredients-nutrition",
-  "last_published_date": "2026-11-25",
-  "last_article_id": "scalp-flakes-consultation",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-flakes-consultation",
-  "pending": {
-    "date": "2026-11-26",
-    "pillar": "ingredients-nutrition",
-    "article_id": "coconut-oil-hair-evidence",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "scalp-physiology",
+  "last_published_date": "2026-11-26",
+  "last_article_id": "coconut-oil-hair-evidence",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=coconut-oil-hair-evidence",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -138,6 +132,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-flakes-consultation",
       "commit": "dd2298fcc786c6baf7c9ea50cbd80c1d075d6e23",
       "verification": "Public JSON; Chrome FAQ category/search/title/body/NHS source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-26",
+      "pillar": "ingredients-nutrition",
+      "article_id": "coconut-oil-hair-evidence",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=coconut-oil-hair-evidence",
+      "commit": "a62f73a7ac5fe97dbbab86f071c7b57eded793b2",
+      "verification": "Public JSON; Chrome hair-care category/search/title/body/research source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
