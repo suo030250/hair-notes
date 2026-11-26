@@ -93,3 +93,7 @@ sources:
 ## Q022：頭皮屑來源日期與外觀分類界線
 
 2026-11-25：NHS Dandruff HTML 的 published 2017-10-18、modified 2026-09-10，但頁尾／lastReviewed 顯示未來 2029-07-27；真實審查日待確認，不視為完成審查。僅採觀察與轉介；AAD 2021 頁交叉支持相似表現須醫療分辨。未比較去屑配方或驗證自測分類，不把所有脫屑視為同病。見 [NHS](../sources/nhs-dandruff.md)、[AAD](../sources/aad-dry-scalp.md)、[主題](../topics/scalp-flakes-consultation.md)。
+
+## Q023：椰子油原研究全文與產業關係
+
+2026-11-26：Europe PMC 取得 Rele／Mohile 2003 摘要；PubMed 網頁未顯示摘要。全文樣本、因子、用量、統計與資助仍未知，Rele 的 Marico 研發機構關係不等於已核實出資。Dias 2015 轉述同一研究，不作獨立驗證；蛋白流失指標不得外推人體生髮、永久恢復或品牌排名。見 [摘要](../sources/rele-coconut-2003.md)、[主題](../topics/coconut-oil-hair-evidence.md)。

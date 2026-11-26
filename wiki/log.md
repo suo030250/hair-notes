@@ -278,3 +278,9 @@
 
 - 發布提交 `dd2298fcc786c6baf7c9ea50cbd80c1d075d6e23`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=scalp-flakes-consultation) 可讀。公開 JSON、Chrome 常見問題分類／搜尋／標題／正文／NHS 來源及 320px 無水平溢出均通過。
 - 今日完成，下一支柱為成分解析與飲食營養。raw 全文限內部保存，原有未提交教學修改保留。
+
+## [2026-11-26] ingest | 每日文章：椰子油髮絲證據界線
+
+- 支柱：成分解析與飲食營養；coconut-oil-hair-evidence 查重。先保存網頁回應、PMC 閱讀文字、Europe PMC 原摘要 API 與取得限制，再新增研究摘要、主題及公開文章，附加既有綜述，更新索引、Q023、README 與 pending。
+- PubMed 回應不含可讀摘要，以 Europe PMC 書目摘要補足；未讀全文不捏造樣本／用量。保留 Marico 機構關係與資助未知，綜述重述不作獨立研究；不提供生髮、永久恢復或操作配方。
+- 採最新遠端隔離快照發布，不含 raw 全文及原有未提交教學修改。

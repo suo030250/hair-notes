@@ -41,6 +41,8 @@
 
 - [頭皮屑觀察與溝通](topics/scalp-flakes-consultation.md)：衛生迷思、重疊症狀與轉介訊息，不作自我診斷（reviewed）。
 
+- [椰子油護髮的證據界線](topics/coconut-oil-hair-evidence.md)：蛋白流失指標、研究摘要限制與生髮主張的差別（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -90,6 +92,8 @@
 - [NHS 頭皮屑](sources/nhs-dandruff.md)：衛生迷思及求助情況；保留審查日期疑點。
 - [AAD 乾燥與頭皮狀況](sources/aad-dry-scalp.md)：相似表現、分辨與轉介界線。
 
+- [Rele 與 Mohile 2003 油類研究摘要](sources/rele-coconut-2003.md)：三種油比較、產業關係與未讀全文限制。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -100,7 +104,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十八篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含十九篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 

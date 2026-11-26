@@ -39,3 +39,9 @@ sources: []
 
 - [水解蛋白護髮](../topics/hydrolyzed-protein-hair-care.md)
 - [染燙後護髮](../topics/color-perm-conditioning.md)
+
+## 2026-11-26 油類段落回查
+
+重新讀取今日保存 [HTML](../../raw/hair/dias-hair-cosmetics-2015-2026-11-26.html)、[擷取文字](../../raw/hair/dias-hair-cosmetics-2015-2026-11-26.extracted.txt) 的 OTHER SUBSTANCES: MINERAL AND VEGETABLE OILS 及 Footnotes。網頁閱讀器一度是瀏覽器檢查頁，實際以直接 HTML 擷取文字閱讀；[閱讀狀態](../../raw/hair/coconut-reading-status-2026-11-26.json)。
+
+油類段引文 27 轉述 Rele 與 Mohile 的椰子油蛋白流失結果；亦談礦物油及葵花油的表面成膜、光澤與摩擦作用。不是所有成效同一排名，亦不是獨立重複試驗。Footnotes 仍為資助 Nil、無利益衝突聲明，不外推底層研究。未視讀圖片、不採固定操作時程。相關：[原研究摘要](rele-coconut-2003.md)、[椰子油證據](../topics/coconut-oil-hair-evidence.md)。
