@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "scalp-physiology",
-  "last_published_date": "2026-11-26",
-  "last_article_id": "coconut-oil-hair-evidence",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=coconut-oil-hair-evidence",
-  "pending": {
-    "date": "2026-11-27",
-    "pillar": "scalp-physiology",
-    "article_id": "scalp-skin-barrier",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "routine-myths",
+  "last_published_date": "2026-11-27",
+  "last_article_id": "scalp-skin-barrier",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-skin-barrier",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -146,6 +140,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=coconut-oil-hair-evidence",
       "commit": "a62f73a7ac5fe97dbbab86f071c7b57eded793b2",
       "verification": "Public JSON; Chrome hair-care category/search/title/body/research source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-27",
+      "pillar": "scalp-physiology",
+      "article_id": "scalp-skin-barrier",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-skin-barrier",
+      "commit": "e0a56bd015d454ecfa5813aa25ee84c109d48f9c",
+      "verification": "Public JSON; Chrome hair-care category/search/title/body/DermNet source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
