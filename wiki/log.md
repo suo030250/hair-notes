@@ -289,3 +289,9 @@
 
 - 發布提交 `a62f73a7ac5fe97dbbab86f071c7b57eded793b2`；[公開文章](https://suo030250.github.io/hair-notes/article.html?id=coconut-oil-hair-evidence) 可讀。公開 JSON、Chrome 日常護理分類／搜尋／標題／正文／研究來源及 320px 無水平溢出均通過。
 - 今日完成，下一支柱為頭皮生理與科學。raw 全文限內部保存，原有未提交教學修改保留。
+
+## [2026-11-27] ingest | 每日文章：頭皮屏障入門
+
+- 支柱：頭皮生理與科學；scalp-skin-barrier 查重。先保存兩份 DermNet HTML、閱讀文字與取得雜湊，再新增兩摘要、主題和公開文章，更新索引、Q024、README 及 pending。
+- 只採基本屏障及角質層生理，保留 2021／2007 日期、同來源非試驗、資助未知與圖片未讀；不設頭皮 TEWL 門檻、不作油感診斷、去角質療程或生髮保證。
+- 採最新遠端隔離快照，不含 raw 全文、暫存及原有未提交教學修改。

@@ -97,3 +97,7 @@ sources:
 ## Q023：椰子油原研究全文與產業關係
 
 2026-11-26：Europe PMC 取得 Rele／Mohile 2003 摘要；PubMed 網頁未顯示摘要。全文樣本、因子、用量、統計與資助仍未知，Rele 的 Marico 研發機構關係不等於已核實出資。Dias 2015 轉述同一研究，不作獨立驗證；蛋白流失指標不得外推人體生髮、永久恢復或品牌排名。見 [摘要](../sources/rele-coconut-2003.md)、[主題](../topics/coconut-oil-hair-evidence.md)。
+
+## Q024：頭皮屏障量測與修護宣稱
+
+2026-11-27：DermNet 一般皮膚結構／屏障知識可解釋角質細胞與脂質，不是頭皮專屬 TEWL 正常值或配方試驗；出油與觸感不可代替量測／診斷。頭皮部位、髮況、測量條件及產品比較仍待原始研究，不能從機轉外推生髮或指定去角質療程。來源標示 2021-03 及 2007，保留日期與同網站非獨立研究限制。見 [主題](../topics/scalp-skin-barrier.md)、[屏障來源](../sources/dermnet-skin-barrier.md)、[結構來源](../sources/dermnet-skin-structure.md)。
