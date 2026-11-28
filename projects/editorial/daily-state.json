@@ -7,17 +7,11 @@
     "hair-loss-conditions",
     "ingredients-nutrition"
   ],
-  "next_pillar": "routine-myths",
-  "last_published_date": "2026-11-27",
-  "last_article_id": "scalp-skin-barrier",
-  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-skin-barrier",
-  "pending": {
-    "date": "2026-11-28",
-    "pillar": "routine-myths",
-    "article_id": "swimming-hair-care",
-    "stage": "validation",
-    "reason": "內容完成，待檢查及公開驗證"
-  },
+  "next_pillar": "hair-loss-conditions",
+  "last_published_date": "2026-11-28",
+  "last_article_id": "swimming-hair-care",
+  "last_article_url": "https://suo030250.github.io/hair-notes/article.html?id=swimming-hair-care",
+  "pending": null,
   "history": [
     {
       "date": "2026-11-11",
@@ -154,6 +148,14 @@
       "url": "https://suo030250.github.io/hair-notes/article.html?id=scalp-skin-barrier",
       "commit": "e0a56bd015d454ecfa5813aa25ee84c109d48f9c",
       "verification": "Public JSON; Chrome hair-care category/search/title/body/DermNet source; no horizontal overflow at 320px"
+    },
+    {
+      "date": "2026-11-28",
+      "pillar": "routine-myths",
+      "article_id": "swimming-hair-care",
+      "url": "https://suo030250.github.io/hair-notes/article.html?id=swimming-hair-care",
+      "commit": "664347d2933e70112d58a000972f75df7184ff7c",
+      "verification": "Public JSON; Chrome hair-care category/search/title/body/Cleveland source; no horizontal overflow at 320px"
     }
   ],
   "automation_id": "hair-notes",
