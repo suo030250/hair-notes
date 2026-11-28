@@ -101,3 +101,7 @@ sources:
 ## Q024：頭皮屏障量測與修護宣稱
 
 2026-11-27：DermNet 一般皮膚結構／屏障知識可解釋角質細胞與脂質，不是頭皮專屬 TEWL 正常值或配方試驗；出油與觸感不可代替量測／診斷。頭皮部位、髮況、測量條件及產品比較仍待原始研究，不能從機轉外推生髮或指定去角質療程。來源標示 2021-03 及 2007，保留日期與同網站非獨立研究限制。見 [主題](../topics/scalp-skin-barrier.md)、[屏障來源](../sources/dermnet-skin-barrier.md)、[結構來源](../sources/dermnet-skin-structure.md)。
+
+## Q025：泳池護髮配方與機轉差異
+
+2026-11-28：兩來源同建議泳帽及泳後沖洗，產品方向不同：AAD 泳者專用，Cleveland 溫和清潔及非每日深層清潔。保留條件，不化為人人固定頻率。綠髮機轉措辭不同，AAD 氯與銅互動、Cleveland 礦物非氯本身，未讀原始研究不採結論。不同髮況與配方的直接比較仍待查，不承諾完全隔絕、保色或自製去氯。見 [主題](../topics/swimming-hair-care.md) 及 [AAD](../sources/aad-summer-hair.md)、[Cleveland](../sources/cleveland-chlorine-hair.md)。

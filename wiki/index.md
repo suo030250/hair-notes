@@ -45,6 +45,8 @@
 
 - [頭皮屏障入門](topics/scalp-skin-barrier.md)：角質層、脂質與屏障指標；不以油感診斷（reviewed）。
 
+- [游泳前後護髮](topics/swimming-hair-care.md)：泳帽界線、下水準備與泳後清潔潤護（reviewed）。
+
 ## 綜合分析
 
 - [從美髮知識到 Reels](syntheses/hair-to-reels.md)：將有來源知識轉成腳本的工作流程（seed）。
@@ -99,6 +101,9 @@
 - [DermNet 屏障功能](sources/dermnet-skin-barrier.md)：角質層結構與水分散失概念。
 - [DermNet 皮膚結構](sources/dermnet-skin-structure.md)：表皮層次與正常角化。
 
+- [AAD 游泳季護髮](sources/aad-summer-hair.md)：泳帽、泳後沖洗及產品方向。
+- [Cleveland Clinic 氯水護髮](sources/cleveland-chlorine-hair.md)：下水前後照護與不完全隔絕的界線。
+
 ## 問題與研究
 
 - [研究待辦與矛盾清單](questions/research-backlog.md)：待匯入資料、待驗證主張與研究結果入口。
@@ -109,7 +114,7 @@
 
 ## 網站閱讀版本
 
-已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含二十篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
+已建立 [Hair Notes 首頁原始檔](../docs/index.html)，包含二十一篇文章、搜尋、分類與關於頁；請依 [README](../README.md) 使用 HTTP 伺服器預覽。已發布至 [公開網站](https://suo030250.github.io/hair-notes/)。
 
 ## 維護與創作入口
 
